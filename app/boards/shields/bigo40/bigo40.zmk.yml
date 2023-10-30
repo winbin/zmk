@@ -1,0 +1,12 @@
+file_format: "1"
+id: bigo40
+name: Bigo40
+type: shield
+url: 
+requires: [bigo]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow
+  - encoder
